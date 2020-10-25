@@ -1,0 +1,32 @@
+<table class="table">
+    <thead class="thead" style="background-color: #3ea8f359;">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Cedula</th>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Edad</th>
+            <th scope="col">Departamento</th>
+            <th scope="col">Ciudad</th>
+            <th scope="col">Tipoapoyo</th>
+            <th scope="col">Vrapoyo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let apoyo of Apoyos;index as i;">
+            <th scope="row">{{i + 1}}</th>
+            <td>{{apoyo.persona.cedula}}</td>
+            <td>{{apoyo.persona.nombre}}</td>
+            <td>{{apoyo.persona.apellido}}</td>
+            <td>{{apoyo.persona.sexo}}</td>
+            <td>{{apoyo.persona.edad}}</td>
+            <td>{{apoyo.persona.departamento}}</td>
+            <td>{{apoyo.persona.ciudad}}</td>
+            <td>{{apoyo.tipoapoyo}}</td>
+            <td>{{apoyo.vrapoyo}}</td>
+
+        </tr>
+
+    </tbody>
+</table>

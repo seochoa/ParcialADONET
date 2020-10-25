@@ -1,0 +1,60 @@
+<div class="container">
+    <h1>Registro Apoyo</h1>
+    <br>
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <form>
+                <div class="form-row">
+                    <div class="col">
+                        <input type="text" class="form-control" name="cc" placeholder="C.C" [(ngModel)]="Persona.cedula">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <input type="text" class="form-control" name="firsname" placeholder="First name" [(ngModel)]="Persona.nombre">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="form-control" name="lastname" placeholder="Last name" [(ngModel)]="Persona.apellido">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <input type="number" class="form-control" name="edad" placeholder="Edad" [(ngModel)]="Persona.edad">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="form-control" name="sexo" placeholder="Sexo" [(ngModel)]="Persona.sexo">
+
+                        <!-- <select class="form-control" [(ngModel)]="Apoyo.Persona.Sexo">
+                            <option>M</option>
+                            <option>F</option>
+                        </select> -->
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <input type="text" class="form-control" name="departamento" placeholder="Departamento" [(ngModel)]="Persona.departamento">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="form-control" name="ciudad" placeholder="Ciudad" [(ngModel)]="Persona.ciudad">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="col">
+                        <input type="text" class="form-control" name="tipoapoyo" placeholder="TipoApoyo" [(ngModel)]="Apoyo.tipoapoyo">
+                        <!-- <select class="form-control" [(ngModel)]="Apoyo.Tipoapoyo">
+                            <option>Economico</option>
+                            <option>Alimentario</option>
+                        </select> -->
+                    </div>
+                    <div class="col">
+                        <input type="number" class="form-control" name="vrapoyo" placeholder="VrApoyo" [(ngModel)]="Apoyo.vrapoyo">
+                    </div>
+                </div>
+                <div class="text-center ">
+                    <button class="btn btn-primary mr-1 " (click)="agregar()">REGISTRO</button>
+                    <button class="btn btn-secondary " type="reset ">CANCELAR</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

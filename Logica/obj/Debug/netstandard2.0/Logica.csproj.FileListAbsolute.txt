@@ -1,0 +1,14 @@
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\SEBASTIAN\Desktop\PROGRAMACION WEB\TALLER PARCIAL1RECORTE\Logica\obj\Debug\netstandard2.0\Logica.pdb
